@@ -1,6 +1,6 @@
 import {
   ColumnDirective, ColumnsDirective, GridComponent,
-  Inject, Page, queryCellInfo
+  Inject, Page
 } from '@syncfusion/ej2-react-grids';
 import { data } from './datasource';
 import './App.css';
